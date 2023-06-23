@@ -21,11 +21,5 @@
       ]
     }
   },
-  "portsAttributes": {
-    "8000": {
-      "label": "Application",
-      "onAutoForward": "openPreview"
-    }
-  },
   "forwardPorts": [8000]
 }
